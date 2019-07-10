@@ -1,0 +1,1 @@
+console.log('我是common公共模块文件夹下的index.js');
